@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- <string name="app_name">MAD155Module5CityGuide</string> -->
+    <string name="app_name">Chicago City Guide</string>
+
+    <string name="willis">Willis Tower Image</string>
+    <string name="pier">Navy Pier Image</string>
+    <string name="water">Water Tower Image</string>
+
+    <string name="txtWillis">Willis Tower</string>
+    <string name="txtPier">Navy Pier</string>
+    <string name="txtWater">Water Tower</string>
+
+</resources>
