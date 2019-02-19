@@ -24,7 +24,7 @@ public class MainActivity extends ListActivity {
                                 "Water Tower"} ;
 
         //.. was using android default layout of simple_list_item_1 ... notice "android" gone too
-        setListAdapter(new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, attraction));
+        //setListAdapter(new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, attraction));
         //.. now it points to custom layout activity main and the custom textview widget named travel
         //  that has the picture with drawableLeft
         setListAdapter(new ArrayAdapter<String>(this, R.layout.activity_main, R.id.travel, attraction));
